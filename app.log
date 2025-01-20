@@ -1,0 +1,37 @@
+2025-01-20 13:44:20,986 - INFO - 127.0.0.1 - - [20/Jan/2025 13:44:20] "OPTIONS /generate_image HTTP/1.1" 200 -
+2025-01-20 13:44:21,257 - DEBUG - Starting new HTTPS connection (1): images.genius.com:443
+2025-01-20 13:44:21,415 - DEBUG - https://images.genius.com:443 "GET /c24111a537201090374b8bd48345637b.1000x1000x1.jpg HTTP/1.1" 200 105144
+2025-01-20 13:44:21,487 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+2025-01-20 13:44:21,487 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+2025-01-20 13:44:21,490 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+2025-01-20 13:44:21,495 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+2025-01-20 13:44:21,496 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x01\x00'
+2025-01-20 13:44:21,498 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'f\x00\x00\x00'
+2025-01-20 13:44:21,704 - INFO - 127.0.0.1 - - [20/Jan/2025 13:44:21] "POST /generate_image HTTP/1.1" 200 -
+2025-01-20 13:44:50,246 - INFO -  * Detected change in 'C:\\Users\\benja\\Documents\\lyricsGenius\\scripts\\app.py', reloading
+2025-01-20 13:44:52,488 - WARNING -  * Debugger is active!
+2025-01-20 13:44:52,495 - INFO -  * Debugger PIN: 932-713-677
+2025-01-20 13:44:53,635 - INFO - 127.0.0.1 - - [20/Jan/2025 13:44:53] "OPTIONS /generate_image HTTP/1.1" 200 -
+2025-01-20 13:44:53,903 - DEBUG - Starting new HTTPS connection (1): images.genius.com:443
+2025-01-20 13:44:54,034 - DEBUG - https://images.genius.com:443 "GET /c24111a537201090374b8bd48345637b.1000x1000x1.jpg HTTP/1.1" 200 105144
+2025-01-20 13:44:54,090 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+2025-01-20 13:44:54,090 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+2025-01-20 13:44:54,094 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+2025-01-20 13:44:54,095 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+2025-01-20 13:44:54,098 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x01\x00'
+2025-01-20 13:44:54,099 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'f\x00\x00\x00'
+2025-01-20 13:44:54,135 - INFO - 127.0.0.1 - - [20/Jan/2025 13:44:54] "[35m[1mPOST /generate_image HTTP/1.1[0m" 500 -
+2025-01-20 13:45:00,588 - INFO -  * Detected change in 'C:\\Users\\benja\\Documents\\lyricsGenius\\scripts\\app.py', reloading
+2025-01-20 13:45:02,512 - WARNING -  * Debugger is active!
+2025-01-20 13:45:02,530 - INFO -  * Debugger PIN: 932-713-677
+2025-01-20 13:45:02,553 - INFO - 127.0.0.1 - - [20/Jan/2025 13:45:02] "OPTIONS /generate_image HTTP/1.1" 200 -
+2025-01-20 13:45:02,565 - DEBUG - Starting new HTTPS connection (1): images.genius.com:443
+2025-01-20 13:45:02,690 - DEBUG - https://images.genius.com:443 "GET /c24111a537201090374b8bd48345637b.1000x1000x1.jpg HTTP/1.1" 200 105144
+2025-01-20 13:45:02,752 - DEBUG - tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+2025-01-20 13:45:02,753 - DEBUG - tag: XResolution (282) - type: rational (5) Tag Location: 34 - Data Location: 86 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+2025-01-20 13:45:02,756 - DEBUG - tag: YResolution (283) - type: rational (5) Tag Location: 46 - Data Location: 94 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+2025-01-20 13:45:02,760 - DEBUG - tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+2025-01-20 13:45:02,763 - DEBUG - tag: YCbCrPositioning (531) - type: short (3) - value: b'\x01\x00'
+2025-01-20 13:45:02,765 - DEBUG - tag: ExifIFD (34665) - type: long (4) - value: b'f\x00\x00\x00'
+2025-01-20 13:45:02,946 - INFO - 127.0.0.1 - - [20/Jan/2025 13:45:02] "POST /generate_image HTTP/1.1" 200 -
+2025-01-20 13:46:31,037 - INFO -  * Detected change in 'C:\\Users\\benja\\Documents\\lyricsGenius\\scripts\\app.py', reloading
