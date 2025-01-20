@@ -6,8 +6,8 @@ import lyricsgenius
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
-# Remplacez 'votre_token_d_acces' par votre jeton d'accès Genius
-genius = lyricsgenius.Genius('XjeLxMdBUlCOuaTW7D697D89-UeQBU43ZP2K2jVkVf2Ae2cBobsEzwS_lDwkuCsB')
+
+genius = lyricsgenius.Genius('bKzqJx2i2oM5Gnayab0ESzHqWjTL7zbjyS0wrXdufHSUi8CLv7ePttwtbuj1AKg-')
 
 @app.route('/api/lyrics', methods=['GET'])
 def get_lyrics():
