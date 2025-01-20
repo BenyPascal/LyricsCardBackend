@@ -4,7 +4,7 @@ from flask_cors import CORS
 import lyricsgenius
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 # Remplacez 'votre_token_d_acces' par votre jeton d'accès Genius
 genius = lyricsgenius.Genius('XjeLxMdBUlCOuaTW7D697D89-UeQBU43ZP2K2jVkVf2Ae2cBobsEzwS_lDwkuCsB')
